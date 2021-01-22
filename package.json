@@ -1,0 +1,29 @@
+{
+  "name": "jwt-expressjs-medium",
+  "version": "1.0.0",
+  "description": "This is a repository for jwt authentication using node.js/express.js for my medium article",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon start"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "jwt",
+    "authentication",
+    "medium",
+    "article",
+    "mongoose",
+    "mongodb"
+  ],
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "izaan jahangir",
+  "license": "ISC"
+}
